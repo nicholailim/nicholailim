@@ -104,26 +104,23 @@ An end-to-end data engineering and analytics learning project exploring purchasi
 ---
 
 
+
 ## `> github_analytics`
 
 <div align="center">
 
 <a href="https://github.com/nicholailim">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nicholailim&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/nicholailim">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholailim&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nicholailim&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" width="49%" height="180" alt="GitHub Statistics" />
+</a><a href="https://github.com/nicholailim">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholailim&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" width="49%" height="180" alt="Most Used Languages" />
 </a>
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=nicholailim&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak Stats" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nicholailim&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+<img src="https://streak-stats.demolab.com?user=nicholailim&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="75%" alt="GitHub Contribution Streak" />
 
 </div>
+
 
 
 ---
