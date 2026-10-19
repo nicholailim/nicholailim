@@ -119,6 +119,12 @@ An end-to-end data engineering and analytics learning project exploring purchasi
 
 <img src="https://streak-stats.demolab.com?user=nicholailim&hide_border=true&background=0F172A&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak" />
 
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nicholailim/nicholailim/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%" />
+</div>
+
+
 </div>
 
 ---
