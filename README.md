@@ -103,29 +103,28 @@ An end-to-end data engineering and analytics learning project exploring purchasi
 
 ---
 
+
 ## `> github_analytics`
 
 <div align="center">
 
 <a href="https://github.com/nicholailim">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nicholailim&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=22D3EE&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nicholailim&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
 </a>
-
 <a href="https://github.com/nicholailim">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholailim&layout=compact&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=CBD5E1" alt="Most used languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholailim&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Top Languages" />
 </a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=nicholailim&hide_border=true&background=0F172A&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=nicholailim&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak Stats" />
 
+<br/><br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nicholailim/nicholailim/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%" />
-</div>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nicholailim&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 
 </div>
+
 
 ---
 
